@@ -1,2 +1,3 @@
-# NetworkAnalysis
-Network Analysis
+# NetworkAnalysisAssignments
+
+Network Analysis Assignment unige-2020
